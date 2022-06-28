@@ -1,0 +1,141 @@
+[legends]
+KC_EXLM = !
+KC_QUES = ? !
+KC_GT = >
+KC_LT = <
+KC_HASH = #
+KC_PERC = %
+KC_AT = @
+KC_DLR = $
+KC_CIRC = ^
+KC_LCBR = {
+KC_LPRN = (
+KC_LBRC = [
+KC_RCBR = }
+KC_RPRN = )
+KC_RBRC = ]
+KC_PIPE = |
+KC_GRAVE = ` ~
+KC_TILD = ~
+KC_PLUS = +
+KC_AMPR = &
+KC_UNDS = _
+KC_MINUS = - _
+KC_EQL = = +
+KC_SLASH = / ?
+KC_COMM = , <
+KC_DOT = . >
+KC_ASTR = *
+KC_BSLS = \ |
+KC_BSLASH = \ |
+KC_QUOTE = ' "
+KC_DQUO = "
+KC_SCLN = : ;
+KC_ENTER = ⏎
+LSFT(KC_ENTER) = SFT ⏎
+KC_PSCR = PrintSc
+KC_NLCK = NumLock
+KC_SLCK = ScrLock
+KC_INS = Ins
+_ =
+__ =
+
+LT(SPANISH,KC_ESC) = SPA/ESC
+MO(LAYERS) = LAYERS
+KC_AUDIO_VOL_DOWN = VOL -
+KC_AUDIO_VOL_UP   = VOL +
+KC_MEDIA_NEXT_TRACK = ⏭️
+KC_MEDIA_PREV_TRACK = ⏮️
+KC_MEDIA_PLAY_PAUSE = ⏯️
+LT(NAV,KC_SPACE) = NAV/SPC
+SYM_ENTER = SYM/⏎
+
+KC_UP = ↑
+KC_LEFT = ←
+KC_DOWN = ↓
+KC_RIGHT = →
+
+CODE_BCK = CBCK
+CODE_FWD = CFWD
+KC_BSPACE = BSPC
+
+KC_PREV_TAB = TAB ←
+KC_NEXT_TAB = TAB →
+
+LGUI(LCTL(LSFT(KC_4))) = 📷
+KC_DELETE = DEL
+MV_LSPC = SPC ←
+MV_RSPC = SPC →
+SW_LANG = LANG
+
+SC_UNDO = UNDO
+SC_CUT = CUT
+SC_COPY = COPY
+SC_PASTE = PASTE
+SC_REDO = REDO
+
+KC_MS_U = MOUSE ↑
+KC_MS_D = MOUSE ↓
+KC_MS_L = MOUSE ←
+KC_MS_R = MOUSE →
+KC_WH_U = WHEEL ↑
+KC_WH_D = WHEEL ↓
+
+KC_LGUI = L◆
+KC_RGUI = R◆
+KC_LALT = L⎇
+KC_LSFT = L⇧
+KC_RSFT = R⇧
+KC_LCTL = L⎈
+KC_RCTL = R⎈
+
+UMLAU_U = Ü
+ACUTE_A = Á
+ACUTE_E = É
+ACUTE_I = Í
+ACUTE_O = Ó
+ACUTE_U = Ú
+TILDE_N = Ñ
+TD_DOT = . >
+
+NK_ON = NKROon
+NK_OFF = NKROoff
+
+STN_N1 = #1
+STN_N2 = #2
+STN_N3 = #3
+STN_N4 = #4
+STN_N5 = #5
+STN_N6 = #6
+STN_N7 = #7
+STN_N8 = #8
+STN_N9 = #9
+STN_NA = NA
+STN_S1 = S1
+STN_TL = T-
+STN_PL = P-
+STN_HL = H-
+STN_ST1 = *1
+STN_ST3 = *3
+STN_FR = -F
+STN_PR = -P
+STN_LR = -L
+STN_TR = -T
+STN_DR = -D
+STN_S2 = S2
+STN_KL = K-
+STN_WL = W-
+STN_RL = R- 
+STN_ST2 = *2
+STN_ST4 = *4
+STN_RR = -R
+STN_BR = -B
+STN_GR = -G
+STN_SR = -S
+STN_ZR = -Z
+STN_A = A-
+STN_O = O-
+STN_E = -E
+STN_U = -U
+
+SH_OS = SWAPHNDS
