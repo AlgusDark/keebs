@@ -50,6 +50,31 @@ KC_MEDIA_PLAY_PAUSE = ⏯️
 LT(NAV,KC_SPACE) = NAV/SPC
 SYM_ENTER = SYM/⏎
 
+SPA_G = SPA/G
+SPA_H = SPA/H
+SPC_G = SPA/G
+SPC_M = SPA/M
+
+HOME_A= L⎈/A
+HOME_S= L⎇/S
+HOME_D= L⇧/D
+HOME_F= L◆/F
+
+HOME_J= L⎈/J
+HOME_K= L⎇/K
+HOME_L= L⇧/L
+HOME_SCLN= L◆/;
+
+CM_A = L⎈/A
+CM_R = L⎇/R
+CM_S = L⇧/S
+CM_T = L◆/T
+CM_N = L⎈/N
+CM_E = L⎇/E
+CM_I = L⇧/I
+CM_O = L◆/O
+
+
 KC_UP = ↑
 KC_LEFT = ←
 KC_DOWN = ↓
